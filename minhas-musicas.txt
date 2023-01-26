@@ -1,0 +1,3 @@
+somente criando uma lista para mostrar oque estou tentando aprender
+a lista de musicas já foi colocada no git hub
+agora e somente um teste para ver se está tudo ok
